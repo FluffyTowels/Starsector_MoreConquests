@@ -1,0 +1,201 @@
+{
+  "hullName": "Con",
+  "hullId": "mc_con",
+  "hullSize": "CRUISER",
+  "spriteName": "graphics/ships/mc_con.png",
+  "style": "MIDLINE",
+  "height": 206,
+  "width": 188,
+  "center": [94, 93],
+  "collisionRadius": 127,
+  "shieldCenter": [0, -0],
+  "shieldRadius": 160.5,
+  "viewOffset": 0,
+  "builtInMods": [
+    "missleracks"
+  ],
+  "weaponSlots": [
+    {
+      "id": "WS0001",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 90,
+      "locations": [39, 66]
+    },
+    {
+      "id": "WS0002",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": -90,
+      "locations": [39, -66]
+    },
+    {
+      "id": "WS0003",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 150,
+      "angle": 160,
+      "locations": [-52, 53]
+    },
+    {
+      "id": "WS0004",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 150,
+      "angle": -160,
+      "locations": [-52, -53]
+    },
+    {
+      "id": "WS0005",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 170,
+      "angle": 80,
+      "locations": [-4, 78]
+    },
+    {
+      "id": "WS0006",
+      "size": "SMALL",
+      "type": "ENERGY",
+      "mount": "TURRET",
+      "arc": 170,
+      "angle": -80,
+      "locations": [-4, -78]
+    },
+    {
+      "id": "WS0007",
+      "size": "LARGE",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [98, 0]
+    },
+    {
+      "id": "WS0008",
+      "size": "MEDIUM",
+      "type": "MISSILE",
+      "mount": "HARDPOINT",
+      "arc": 5,
+      "angle": 0,
+      "locations": [19.5, 0]
+    }
+  ],
+  "engineSlots": [
+    {
+      "location": [-89, -77],
+      "length": 80,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-89, 77],
+      "length": 80,
+      "width": 20,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "LOW_TECH"
+    },
+    {
+      "location": [-91, -53],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 128,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-91, 53],
+      "length": 48,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 128,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-90, -63],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-90, 63],
+      "length": 48,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-92, -39],
+      "length": 48,
+      "width": 12,
+      "angle": 180,
+      "contrailSize": 128,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-92, 39],
+      "length": 48,
+      "width": 12,
+      "angle": -180,
+      "contrailSize": 128,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-85, -21],
+      "length": 72,
+      "width": 20,
+      "angle": 180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-85, 21],
+      "length": 72,
+      "width": 20,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    },
+    {
+      "location": [-63, 0],
+      "length": 96,
+      "width": 24,
+      "angle": -180,
+      "contrailSize": 64,
+      "style": "MIDLINE"
+    }
+  ],
+  "bounds": [
+    -62, 9.5,
+    -84, 17,
+    -89.5, 37,
+    -86.5, 84.5,
+    -5.5, 89,
+    45, 68.5,
+    54, 43.5,
+    86, 21,
+    110, 17,
+    110, -17,
+    86, -21,
+    54, -43.5,
+    45, -68.5,
+    -5.5, -89,
+    -86.5, -84.5,
+    -89.5, -37,
+    -84, -17,
+    -62, -9.5
+  ]
+}

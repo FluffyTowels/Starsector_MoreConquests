@@ -1,0 +1,31 @@
+{
+  "variantId": "mc_cest_standard",
+  "hullId": "mc_cest",
+  "displayName": "Standard",
+  "goalVariant": false,
+  "fluxCapacitors": 11,
+  "fluxVents": 30,
+  "quality": 1,
+  "permaMods": [],
+  "hullMods": [],
+  "weaponGroups": [
+    {
+      "autofire": false,
+      "mode": "LINKED",
+      "weapons": {
+        "WS0001": "taclaser",
+        "WS0002": "ionpulser",
+        "WS0003": "taclaser",
+        "WS0004": "taclaser",
+        "WS0005": "taclaser",
+        "WS0006": "dualflak",
+        "WS0007": "dualflak",
+        "WS0008": "mjolnir",
+        "WS0009": "mjolnir",
+        "WS0010": "hurricane"
+      }
+    }
+  ],
+  "modules": [],
+  "wings": []
+}
