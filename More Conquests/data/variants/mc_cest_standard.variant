@@ -1,7 +1,7 @@
 {
   "variantId": "mc_cest_standard",
   "hullId": "mc_cest",
-  "displayName": "Standard",
+  "displayName": "Standard",
   "goalVariant": false,
   "fluxCapacitors": 11,
   "fluxVents": 30,
